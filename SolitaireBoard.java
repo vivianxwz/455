@@ -1,7 +1,5 @@
-// Name:Xiaowen Zhang
-// USC NetID:zhan204
-// CSCI455 PA2
-// Spring 2019
+// author: vivianxwz @ github
+
 
 import java.util.*;
 
